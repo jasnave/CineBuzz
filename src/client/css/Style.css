@@ -1,0 +1,53 @@
+.style-bg-row { background: #ccc !important; }
+.style-bg-header { background: #8e8989 !important; }
+.style-bg-pale-violet-red { background: #e85296 !important; } /* To-do: Opacity 60% */
+.style-bg-white { background: #FFFFFF !important; }
+.style-text-dark-cyan { color: #2baaa5 !important; text-decoration: none !important; }
+.style-text-light-sea-green { color: #22978e !important; text-decoration: none !important; }
+.style-text-pale-violet-red { color: #e85296 !important; text-decoration: none !important; } /* To-do: Opacity 60% */
+.style-text-white { color: #FFFFFF !important; text-decoration: none !important; }
+.style-text-black { color: #000000 !important; text-decoration: none !important; }
+
+.title {
+  font-size: 18pt;
+  font-weight: 400; /* Normal */
+}
+
+.heading {
+  font-size: 16pt;
+  font-weight: 550; /* Semibold */
+}
+
+.subheading {
+  font-size: 11pt;
+  font-weight: 600; /* Normal */
+}
+
+.annotation {
+  font-size: 16pt;
+  padding-right: 10px;
+  color: #BBBBBB;
+  font-weight: 100; /* Normal */
+}
+
+.annotation-bold {
+  font-size: 9pt;
+  color: #FFFFFF;
+  font-weight: 600; /* Normal */
+}
+
+.body {
+  font-size: 13pt;
+  font-weight: 400; /* Normal */
+}
+
+.label {
+  padding-left: 0;
+  font-size: 18pt;
+  font-weight: lighter; /* Semibold */
+}
+
+.button {
+  font-size: 14pt;
+  font-weight: 550; /* Semibold */
+}
