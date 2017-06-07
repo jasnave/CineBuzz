@@ -25,4 +25,4 @@ Again from within the root folder, type 'npm run start' and visit localhost:3000
 Screenshots
 -----------
 
-![picture](cineBuzz.png)
+![picture](cineBuzz.PNG)
